@@ -4,8 +4,7 @@
     "desktop-lite": {
       "password": "vscode",
       "webPort": "6080",
-      "vncPort": "5901",
-      "rfswarmport": "8138"
+      "vncPort": "5901"
     }
   },
   // Configure tool-specific properties.
